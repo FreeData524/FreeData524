@@ -1,0 +1,14 @@
+Managing/Monitoring Test Scenarios For BM-IoT Agents
+
+Ticket Types:
+- Portal Registration Issues
+-- Nissan
+-- FCA Direct
+- Honda TCU Swaps
+- Connection Issue for Connected Car
+- Salesforce/CCIP
+- Connection Issue for Connected Car
+
+
+
+Possible Nissan Issue: 
